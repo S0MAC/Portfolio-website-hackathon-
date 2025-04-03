@@ -1,7 +1,7 @@
 # My Portfolio Website
 # WEBSITE HOSTING
 The project has been hosted on git hub pages and can be accessed using the folloeing link
-https://github.com/S0MAC/Portfolio-website-hackathon-.git
+ https://s0mac.github.io/Portfolio-website-hackathon-/
 ## Overview
 This is a personal portfolio website designed to showcase my skills, projects, and contact details. The website consists of multiple sections, including an introduction, about me, projects, skills, and contact information.
 
